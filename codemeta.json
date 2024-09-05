@@ -1,0 +1,58 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/AFL-1.2",
+    "codeRepository": "https://github.com/slugb0t/tic-tac-toe",
+    "contIntegration": "dfasdfawer.com",
+    "dateCreated": "2021-08-02T02:58:53Z",
+    "datePublished": "2024-04-30",
+    "dateModified": "2024-04-18T20:28:34.641Z",
+    "downloadUrl": "dd.com",
+    "issueTracker": "https://github.com/slugb0t/tic-tac-toe/issues",
+    "name": "SOFTWARE",
+    "version": "1.0",
+    "identifier": "dddddd",
+    "description": "Game of tic tac toe using Reactjs",
+    "applicationCategory": "Aviation test",
+    "releaseNotes": "changelog",
+    "funding": "dfasde",
+    "developmentStatus": "unsupported",
+    "isPartOf": "googlel.coim",
+    "referencePublication": "dddddfas",
+    "funder": {
+        "@type": "Organization",
+        "@name": "National Institutes of Health (NIH)"
+    },
+    "keywords": [
+        "COVID-19",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Infection rate",
+        "Mortality prediction"
+    ],
+    "programmingLanguage": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ],
+    "runtimePlatform": [
+        "JVM"
+    ],
+    "operatingSystem": [
+        "Windows 11",
+        "Windows 10",
+        "Big Sur (macOS 11)"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Dorian",
+            "familyName": "Portillo",
+            "email": "wheresdorian@gmail.com",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "FAIR Data Innovations Hub"
+            }
+        }
+    ]
+}
