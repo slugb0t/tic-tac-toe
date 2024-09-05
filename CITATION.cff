@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with FAIRshare.
+# Visit https://fairdataihub.org/fairshare to learn more!
+
+abstract: Game of tic tac toe using Reactjs
+authors:
+- affiliation: FAIR Data Innovations Hub
+  email: wheresdorian@gmail.com
+  family-names: Portillo
+  given-names: Dorian
+cff-version: 1.2.0
+date-released: '2024-04-18T20:28:34.641Z'
+identifiers:
+- description: DOI for this software's record on Zenodo
+  type: doi
+  value: dddddd
+keywords:
+- COVID-19
+- Machine Learning
+- Artificial Intelligence
+- Infection rate
+- Mortality prediction
+license: AFL-1.2
+message: If you use this software, please cite it as below.
+repository-artifact: dd.com
+repository-code: https://github.com/slugb0t/tic-tac-toe
+title: SOFTWARE
+type: software
+url: googlel.coim
+version: '1.0'
